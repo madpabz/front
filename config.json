@@ -7,7 +7,7 @@
     "debugInfo": false,
     "defaultLanguage": "en",
     "publicRegisterEnabled": false,
-    "gravatar": true,
+    "gravatar": false,
     "feedbackEnabled": false,
     "privacyPolicyUrl": null,
     "termsOfServiceUrl": null,
